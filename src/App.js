@@ -17,7 +17,7 @@ class App extends React.Component {
     };
 
     onVideoSelect = (video) => {
-        if(video.id.kind == 'youtube#video'){
+        if(video.id.kind === 'youtube#video'){
             this.setState({selectedVideo: video});
         }
         else{
