@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/youtube-x-bootstrap/static/css/main.1cf28a9a.chunk.css",
+    "main.js": "/youtube-x-bootstrap/static/js/main.73ae118f.chunk.js",
+    "main.js.map": "/youtube-x-bootstrap/static/js/main.73ae118f.chunk.js.map",
+    "runtime-main.js": "/youtube-x-bootstrap/static/js/runtime-main.d8336740.js",
+    "runtime-main.js.map": "/youtube-x-bootstrap/static/js/runtime-main.d8336740.js.map",
+    "static/js/2.6e8f1657.chunk.js": "/youtube-x-bootstrap/static/js/2.6e8f1657.chunk.js",
+    "static/js/2.6e8f1657.chunk.js.map": "/youtube-x-bootstrap/static/js/2.6e8f1657.chunk.js.map",
+    "index.html": "/youtube-x-bootstrap/index.html",
+    "static/css/main.1cf28a9a.chunk.css.map": "/youtube-x-bootstrap/static/css/main.1cf28a9a.chunk.css.map",
+    "static/js/2.6e8f1657.chunk.js.LICENSE.txt": "/youtube-x-bootstrap/static/js/2.6e8f1657.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d8336740.js",
+    "static/js/2.6e8f1657.chunk.js",
+    "static/css/main.1cf28a9a.chunk.css",
+    "static/js/main.73ae118f.chunk.js"
+  ]
+}
